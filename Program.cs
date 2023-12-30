@@ -27,3 +27,4 @@ else // a не является кв от чилса b
 {
     Console.WriteLine("Нет, " + firstNumber + " не является квадратом числа " + secondNumber);
 }
+
